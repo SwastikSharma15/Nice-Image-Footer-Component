@@ -3,7 +3,7 @@
 An interactive, WebGL-powered image distortion effect built with [Three.js](https://threejs.org/). This project features a custom shader that creates dynamic ripple, stretch, and floating wave animations reacting to mouse and touch movements.
 
 <!-- ADD YOUR GIF PREVIEW BELOW -->
-![Animation Preview](./preview.gif)
+![Animation Preview](./73586.gif)
 
 ## Features
 
